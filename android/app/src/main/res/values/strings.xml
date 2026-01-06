@@ -1,0 +1,4 @@
+<resources>
+    <string name="shortcut_short_profile">Profile</string>
+    <string name="shortcut_long_profile">Open Profile</string>
+</resources>
